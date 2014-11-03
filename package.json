@@ -1,0 +1,24 @@
+{
+  "name": "angular-resourcelist",
+  "version": "0.0.0",
+  "description": "An AngularJS service to make dealing with lists of $resource objects a bit easier.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanstern/angular-resourcelist"
+  },
+  "keywords": [
+    "AngularJS",
+    "$resource",
+    "service"
+  ],
+  "author": "Evan Stern <evanmicahstern@gmail.com>",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/evanstern/angular-resourcelist/issues"
+  },
+  "homepage": "https://github.com/evanstern/angular-resourcelist"
+}
