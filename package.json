@@ -2,7 +2,7 @@
   "name": "angular-resourcelist",
   "version": "0.0.0",
   "description": "An AngularJS service to make dealing with lists of $resource objects a bit easier.",
-  "main": "Gruntfile.js",
+  "main": "angular-resourcelist.js",
   "scripts": {
     "test": "grunt test --verbose"
   },
@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/evanstern/angular-resourcelist/issues"
   },
-  "homepage": "https://github.com/evanstern/angular-resourcelist"
+  "homepage": "https://github.com/evanstern/angular-resourcelist",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-karma": "^0.9.0",
+    "karma": "^0.12.24",
+    "karma-jasmine": "^0.2.3",
+    "karma-mocha-reporter": "^0.3.1",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "load-grunt-tasks": "^1.0.0"
+  }
 }
